@@ -65,13 +65,13 @@ h2 {
     margin-bottom: 2rem;
     text-decoration: none;
     color: rgb(25, 26, 26);
-    background: linear-gradient(90deg, rgb(18,92,255) 0%, rgb(0, 102, 255) 100%);
+    background: linear-gradient(80deg, rgb(192, 255, 18) 0%, rgb(0, 255, 191) 100%);
     border-radius: 5px;
 }
 
 .btn:hover {
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 rgb(8, 114,244, 0.6);
+    box-shadow: 0 0.4rem 1.4rem 0 rgba(8, 244, 126, 0.6);
     transition: transform 150ms;
     transform: scale(1.03);
 }
